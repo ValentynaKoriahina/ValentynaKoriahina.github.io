@@ -1,0 +1,20 @@
+.custom-button {
+  --background: #4CAF50; /* Задаем основной цвет фона */
+  --background-activated: #45a049; /* Цвет фона при нажатии */
+  --background-activated-opacity: 0.8; /* Непрозрачность фона при нажатии */
+  --background-focused: #4CAF50; /* Цвет фона при фокусе с помощью клавиши табуляции */
+  --background-focused-opacity: 1; /* Непрозрачность фона при фокусе */
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+/* Стили для ссылок */
+.bible-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}

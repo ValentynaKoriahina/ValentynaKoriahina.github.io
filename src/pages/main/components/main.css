@@ -1,0 +1,35 @@
+ion-toolbar {
+  --background: #040404;
+  --color: #ffffff;
+}
+
+ion-button {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+/* ion-modal {
+  --height: auto;
+} */
+
+
+.bible-link {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.output {
+  white-space: pre-wrap
+}
+
+ion-content {
+  --background: #fefde8;
+}
+
+ion-textarea {
+  background-color: #fefefe;
+  border: 2px solid #605a5abb;
+  border-radius: 8px;
+  padding: 10px;
+}
