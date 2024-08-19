@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "Bible Ref",
+  "name": "Bible References",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
