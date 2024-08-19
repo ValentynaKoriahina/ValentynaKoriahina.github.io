@@ -6,7 +6,7 @@ const Main: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Bible Verses</IonTitle>
+          <IonTitle>Bible References</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>

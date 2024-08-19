@@ -6,6 +6,7 @@ declare global {
 
 import { useState, useEffect } from 'react';
 import { IonContent, IonTextarea, IonText, IonButton } from '@ionic/react';
+
 import BibleShowModal from './BibleShowModal';
 import BibleSelectionModal from './BibleSelectionModal';
 import FloatingButton from './FloatingButton'

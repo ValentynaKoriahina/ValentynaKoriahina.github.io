@@ -77,7 +77,6 @@ const BibleSelectionModal: React.FC<BibleSelectionModalProps> = ({ isOpen, setIs
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
-        <IonText>Выберите текст для перехода:</IonText>
         <IonSelect 
           id="bookSelect" 
           placeholder="Выберите книгу" 
